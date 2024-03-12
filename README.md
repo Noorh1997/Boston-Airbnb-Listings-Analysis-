@@ -1,7 +1,7 @@
 # Boston-Airbnb-Listings-Analysis-
 
 
-1. Installations
+## 1. Installations
 •	Python 3
 •	Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
@@ -22,4 +22,4 @@ To interact with this project:
 •	Author: Noorh Alharbi
 •	Acknowledgements: The Airbnb data used in this project was obtained from Inside Airbnb, a publicly available dataset compiled by Murray Cox.
 
-![image](https://github.com/Noorh1997/Boston-Airbnb-Listings-Analysis-/assets/162990234/466fb09a-21d4-4e68-9b24-3510acc1a0db)
+
