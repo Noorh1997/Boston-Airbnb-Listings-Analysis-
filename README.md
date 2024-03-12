@@ -4,7 +4,7 @@
 here's the link: https://medium.com/@nalharbi0373/write-a-data-science-blog-post-651e51f27503
 
 ## 1. Installations
-•	Python 3
+•	Python 3 <br>
 •	Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 ## 2. Project Motivation
