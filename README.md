@@ -11,7 +11,7 @@ here's the link: https://medium.com/@nalharbi0373/write-a-data-science-blog-post
 This project is the first project of the Data Scientist Nanodegree on Udacity, aiming to analyze Boston Airbnb listings data to gain insights into factors influencing pricing and host characteristics. The analysis includes Exploratory Data Analysis (EDA) to understand the distribution of listings and their attributes, as well as modeling to predict listing prices based on various features.
 
 ## 3. File Descriptions
-•	Boston_airbnb_listings_analysis. ipynb: Jupyter Notebook containing code for data analysis, visualization, and modeling.
+•	Boston_airbnb_listings_analysis. ipynb: Jupyter Notebook containing code for data analysis, visualization, and modeling. <br>
 •	README.md: Markdown file providing an overview of the project.
 
 ## 4. How to Interact with This Project
@@ -21,7 +21,7 @@ To interact with this project:
 3.	Open the boston_airbnb_listings_analysis.ipynb notebook and execute the cells to reproduce the analysis and results.
 
 ## 5. Licensing, Authors, Acknowledgements, etc.
-•	Author: Noorh Alharbi
+•	Author: Noorh Alharbi <br>
 •	Acknowledgements: The Airbnb data used in this project was obtained from Inside Airbnb, a publicly available dataset compiled by Murray Cox.
 
 
