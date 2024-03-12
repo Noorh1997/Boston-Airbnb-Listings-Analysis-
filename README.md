@@ -1,5 +1,7 @@
 # Boston-Airbnb-Listings-Analysis-
 
+## The following link is the Medium blog post:
+here's the link: https://medium.com/@nalharbi0373/write-a-data-science-blog-post-651e51f27503
 
 ## 1. Installations
 •	Python 3
